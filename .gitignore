@@ -1,25 +1,11 @@
-# Global/macOS
-.DS_Store
-.claude/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.env
-.pytest_cache/
-
-# IDEs
-.idea/
-.vscode/
-
-# Project-specific
-archive/
-notebooks/exploratory/
-
-.agents/
-
-# MkDocs
-site/
-.cache/
+# Ignore data and hackathon boilerplate files
+data/
+assets/
+docs/
+notebooks/
+src/
+.github/
+*.html
+*.pdf
+md_to_pdf.py
+WRITEUP.md
