@@ -1,9 +1,8 @@
-# Ignore data and hackathon boilerplate files
+# Ignore data and non-essential hackathon boilerplate files
 data/
 assets/
 docs/
 notebooks/
-src/
 .github/
 *.html
 *.pdf
